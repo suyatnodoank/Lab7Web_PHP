@@ -1,4 +1,4 @@
-# Laporan Praktikum 7 — Pemrograman Server-Side dengan PHP
+# Laporan Praktikum 7
 
 | Komponen | Keterangan |
 |---|---|
