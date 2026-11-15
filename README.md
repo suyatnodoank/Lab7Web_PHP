@@ -1,4 +1,4 @@
-<img width="1913" height="835" alt="3  Latihan 2" src="https://github.com/user-attachments/assets/c7c66574-146e-4b1c-9f24-20f2afc2f4e6" /># Laporan Praktikum 7 — Pemrograman Server-Side dengan PHP
+# Laporan Praktikum 7 — Pemrograman Server-Side dengan PHP
 
 | Komponen | Keterangan |
 |---|---|
