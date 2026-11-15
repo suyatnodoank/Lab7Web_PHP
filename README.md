@@ -40,7 +40,7 @@
 1. Pasang **XAMPP**, lalu buka **XAMPP Control Panel**.
 2. Klik **Start** pada modul **Apache** hingga statusnya berwarna hijau. Modul MySQL belum diperlukan pada praktikum ini.
 
-   ![Apache berjalan pada XAMPP Control Panel](screenshots/00_xampp_control_panel.png)
+<img width="849" height="564" alt="1  Install jalankan apache" src="https://github.com/user-attachments/assets/c32cfd3a-330c-4a5d-8181-f6f58a79f5e9" />
 
 3. Salin folder proyek `Lab7Web_PHP` ke direktori `C:\xampp\htdocs\`. Direktori `htdocs` merupakan *document root* Apache, yaitu folder yang dilayani server sebagai isi situs.
 4. Buka browser dan akses `http://localhost/Lab7Web_PHP/`, lalu pilih file yang ingin dijalankan. Contoh:
@@ -48,7 +48,6 @@
 5. File PHP **tidak boleh** dibuka dengan klik ganda (protokol `file://`), karena tanpa web server kode PHP tidak diinterpretasikan dan tampil sebagai teks mentah.
 6. Setelah selesai, hentikan layanan dengan menekan **Stop** pada modul Apache.
 
-<img width="849" height="564" alt="1  Install jalankan apache" src="https://github.com/user-attachments/assets/c32cfd3a-330c-4a5d-8181-f6f58a79f5e9" />
 ---
 
 ## 4. Struktur File
